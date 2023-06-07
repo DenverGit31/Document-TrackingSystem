@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.searchbtn{
+    border-radius: 5px;
+    background-color: #fcfcfc;
+    color: rgb(10, 10, 10);
+}
+.searchbtn:hover{
+    background-color: #203f42;
+    color: white;
+    transition: .5s;
+    
+}
+.navbar-brand{
+    font-weight: bold;
+    padding: 10px;
+}
+.nav-item.navbar-brand:hover{
+    border-radius: 10px;
+    background-color: #203f42;
+    color: white;
+    transition: .5s;
+
+}
+.navbar-brand:hover{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #203f42;
+    color: white;
+    transition: .5s;
+}
+.Maincontainer .container label{
+    float: left;
+}
+/* .container input{
+    margin-right: 8%;
+    outline: none;
+    float: right;
+    width: 400px;
+    height: 30px;
+    border-radius: 3px;
+    
+
+} */
